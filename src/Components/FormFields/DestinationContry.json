@@ -1,0 +1,29 @@
+{
+  "destinationCountry": [
+    {
+      "label": "Select Country",
+      "value": "",
+      "currency": ""
+    },
+    {
+      "label": "Sweden",
+      "value": "7.35",
+      "currency": "INR"
+    },
+    {
+      "label": "China",
+      "value": "11.53",
+      "currency": "INR"
+    },
+    {
+      "label": "Brazil",
+      "value": "15.63",
+      "currency": "INR"
+    },
+    {
+      "label": "Australia",
+      "value": "50.09",
+      "currency": "INR"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "formFields": [
+    {
+      "type": "text",
+      "key": "receiverName",
+      "name": "Receiver name",
+      "subName": "",
+      "placeholder": "Enter Receiver name "
+    },
+    {
+      "type": "text",
+      "key": "weight",
+      "name": "Weight",
+      "subName": "( in Kilograms )",
+      "placeholder": "Enter Weight ( in Kilograms )"
+    },
+    {
+      "type": "checkbox",
+      "key": "boxcolour ",
+      "name": "Box colour",
+      "subName": "",
+      "placeholder": "Select Box colour"
+    },
+    {
+      "type": "select",
+      "key": "destinationcountry ",
+      "name": "Destination country",
+      "subName": "",
+      "placeholder": ""
+    }
+  ]
+}
